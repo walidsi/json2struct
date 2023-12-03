@@ -15,4 +15,4 @@ Call:
     jsonString := "{\"id\": 2514, \"country\":\"EG\", \"sunrise\": 1701405191, \"sunset\": 1701442495}"
     jsonStructs, err := json2struct.JSONToStruct("root", jsonString)
 
-I have created a simple web app that demonstrates the input and output. Check it at: http://json2struct.azurewebsites.net
+There is a simple web app that demonstrates the input and output, check it at: http://json2struct.azurewebsites.net
