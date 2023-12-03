@@ -1,0 +1,1 @@
+json2struct is a go package that exposes one function at the moment. This function is called JSONToStruct that takes a json as string and returns the equilvant go struct(s) that map to it. You can then use the structs as an argument to Decode() to deserialize your json.
